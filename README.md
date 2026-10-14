@@ -1,4 +1,4 @@
-# CMA-ES water geometry optimization with PySCF
+# CMAES Water Optimization
 
 [中文说明](README.zh-CN.md) · [实验原理与结果](docs/experiment.md)
 
@@ -17,8 +17,8 @@ Use Python 3.10 or newer with a platform supported by
 [PySCF](https://pyscf.org/user/install.html).
 
 ```bash
-git clone https://github.com/weida-feng/cmaes_optimizer.git
-cd cmaes_optimizer
+git clone https://github.com/weida-feng/CMAES-Water-Optimization.git
+cd CMAES-Water-Optimization
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt

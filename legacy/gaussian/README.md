@@ -38,7 +38,7 @@ updates, recorded:
 | Recorded Gaussian `Opt=Tight` reference | 0.9687 | 103.6522 |
 
 These are historical outputs from
-[`dd400cc`](https://github.com/weida-feng/cmaes_optimizer/tree/dd400ccea1f3b6941d4a3f5a4134ece45e8937e4),
+[`dd400cc`](https://github.com/weida-feng/CMAES-Water-Optimization/tree/dd400ccea1f3b6941d4a3f5a4134ece45e8937e4),
 not results of a fresh Gaussian execution. The current machine has no Gaussian
 executable; validation covers simulated logs and process failures. Differences
 between backends can also reflect functional implementations, integration

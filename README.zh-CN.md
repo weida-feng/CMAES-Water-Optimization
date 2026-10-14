@@ -1,4 +1,4 @@
-# 使用 CMA-ES 与 PySCF 优化水分子结构
+# CMAES Water Optimization：水分子结构优化
 
 [English](README.md) · [完整实验说明](docs/experiment.md)
 
@@ -16,8 +16,8 @@
 [PySCF 支持](https://pyscf.org/user/install.html)。
 
 ```bash
-git clone https://github.com/weida-feng/cmaes_optimizer.git
-cd cmaes_optimizer
+git clone https://github.com/weida-feng/CMAES-Water-Optimization.git
+cd CMAES-Water-Optimization
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
