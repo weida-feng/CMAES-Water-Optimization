@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+outcmaes/
+gaussian_work/
+outputs/
+*.chk
+*.fchk
