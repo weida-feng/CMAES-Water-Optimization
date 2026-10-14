@@ -1,0 +1,14 @@
+%nprocshared=4
+%mem=4GB
+# B3LYP/6-31G* Opt=(Tight,Z-Matrix)
+
+Water reference geometry optimization
+
+0 1
+O
+H 1 R
+H 1 R 2 A
+
+R=0.9584
+A=104.45
+
